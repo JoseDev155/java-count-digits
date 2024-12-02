@@ -1,0 +1,29 @@
+# Compilation directories
+/bin/
+/build/
+/target/
+
+# IDE configuration files
+/.idea/
+/*.iml
+/*.ipr
+/*.iws
+/.classpath
+/.project
+/.settings/
+
+# Windows
+Thumbs.db
+
+# Log files
+*.log
+
+# Maven and Gradle configuration files
+/.mvn/
+/.gradle/
+/build/
+
+# Eclipse (STS 4) configurarion files
+/.classpath
+/.project
+/.settings/
